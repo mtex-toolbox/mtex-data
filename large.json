@@ -1,0 +1,17 @@
+{
+  "EBSD/SmallIN100_MeshStats.dream3d": {
+    "release": "v1",
+    "sha256": "21e59d9b6655411efaaa39ae4b5717ac28318f7943a3bbfd59745f98a046866f",
+    "size": 176411524
+  },
+  "EBSD/copper29.h5oina": {
+    "release": "v1",
+    "sha256": "92f49ee909261e7cc040a0568987666b5a308c2547c6dd3d4840f57f83c77538",
+    "size": 163730279
+  },
+  "EBSD/trueEbsdWCCo.mat": {
+    "release": "v1",
+    "sha256": "15590638ffa9ed26278eb4b36fba0fb798773d34b61d6598a32c018a6ae6c2a2",
+    "size": 179398935
+  }
+}

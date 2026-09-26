@@ -1,0 +1,445 @@
+[
+  {
+    "name": "aachen",
+    "type": "EBSD",
+    "description": "Two-phase iron and magnesium map",
+    "files": [
+      "EBSD/85_829grad_07_09_06.txt"
+    ]
+  },
+  {
+    "name": "sharp",
+    "type": "EBSD",
+    "description": "Calcite orientation map",
+    "files": [
+      "EBSD/sharp.txt"
+    ]
+  },
+  {
+    "name": "small",
+    "type": "EBSD",
+    "description": "The Forsterite map cropped to a 3000 x 3000 um region",
+    "files": [
+      "EBSD/Forsterite.ctf"
+    ]
+  },
+  {
+    "name": "csl",
+    "type": "EBSD",
+    "description": "Iron map for the coincidence site lattice examples",
+    "files": [
+      "EBSD/CSL.txt"
+    ]
+  },
+  {
+    "name": "mylonite",
+    "type": "EBSD",
+    "description": "Multiphase mylonite map",
+    "files": [
+      "EBSD/P5629U1.txt"
+    ]
+  },
+  {
+    "name": "epidote",
+    "type": "EBSD",
+    "description": "Multiphase epidote map",
+    "files": [
+      "EBSD/data.ctf"
+    ]
+  },
+  {
+    "name": "forsterite",
+    "type": "EBSD",
+    "description": "Multiphase Forsterite map",
+    "files": [
+      "EBSD/Forsterite.ctf"
+    ]
+  },
+  {
+    "name": "olivine",
+    "type": "EBSD",
+    "description": "Olivine optical map in the prepared reference frame",
+    "files": [
+      "EBSD/olivineopticalmap.ang"
+    ]
+  },
+  {
+    "name": "twins",
+    "type": "EBSD",
+    "description": "Magnesium map for the twinning examples",
+    "files": [
+      "EBSD/twins.ctf"
+    ]
+  },
+  {
+    "name": "copper",
+    "type": "EBSD",
+    "description": "Copper map, EDAX setting 1",
+    "files": [
+      "EBSD/copper.osc"
+    ]
+  },
+  {
+    "name": "single",
+    "type": "EBSD",
+    "description": "Single grain aluminium map",
+    "files": [
+      "EBSD/single_grain_aluminum.txt"
+    ]
+  },
+  {
+    "name": "alu",
+    "type": "EBSD",
+    "description": "Polycrystalline aluminium map",
+    "files": [
+      "EBSD/polycrystalline_aluminum.txt"
+    ]
+  },
+  {
+    "name": "titanium",
+    "type": "EBSD",
+    "description": "Alpha titanium map with X||a",
+    "files": [
+      "EBSD/titanium.txt"
+    ]
+  },
+  {
+    "name": "ferrite",
+    "type": "EBSD",
+    "description": "Ferrite map, EDAX setting 1",
+    "files": [
+      "EBSD/ferrite.ang"
+    ]
+  },
+  {
+    "name": "dc06",
+    "type": "EBSD",
+    "description": "Ferritic steel after two percent uniaxial tension, EDAX setting 2",
+    "files": [
+      "EBSD/DC06_2uniax.ang"
+    ]
+  },
+  {
+    "name": "martensite",
+    "type": "EBSD",
+    "description": "Martensite map with proper crystal groups",
+    "files": [
+      "EBSD/martensite.cpr",
+      "EBSD/martensite.crc"
+    ]
+  },
+  {
+    "name": "emsland",
+    "type": "EBSD",
+    "description": "Emsland plessite map",
+    "files": [
+      "EBSD/Emsland_plessite_500x_15.ctf"
+    ]
+  },
+  {
+    "name": "alphaBetaTitanium",
+    "type": "EBSD",
+    "description": "Alpha and beta titanium map with proper crystal groups",
+    "files": [
+      "EBSD/EDXLMDTi64.cpr",
+      "EBSD/EDXLMDTi64.crc"
+    ]
+  },
+  {
+    "name": "EMSphinx",
+    "type": "EBSD",
+    "description": "EMSphInx steel map with named iron and cobalt phases",
+    "files": [
+      "EBSD/EMSphinx.h5"
+    ]
+  },
+  {
+    "name": "testgrains",
+    "type": "grain2d",
+    "description": "Artificial grain shapes for the shape parameters",
+    "files": [
+      "testgrains.mat"
+    ]
+  },
+  {
+    "name": "dubna",
+    "type": "PoleFigure",
+    "description": "Quartz pole figures with superposition coefficients",
+    "files": [
+      "PoleFigure/dubna/Q(02-21)_amp.cnv",
+      "PoleFigure/dubna/Q(10-10)_amp.cnv",
+      "PoleFigure/dubna/Q(10-11)(01-11)_amp.cnv",
+      "PoleFigure/dubna/Q(10-12)_amp.cnv",
+      "PoleFigure/dubna/Q(11-20)_amp.cnv",
+      "PoleFigure/dubna/Q(11-21)_amp.cnv",
+      "PoleFigure/dubna/Q(11-22)_amp.cnv"
+    ]
+  },
+  {
+    "name": "geesthacht",
+    "type": "PoleFigure",
+    "description": "Geesthacht diffraction pole figures",
+    "files": [
+      "PoleFigure/geesthacht/ST42-104-110.dat"
+    ]
+  },
+  {
+    "name": "steel",
+    "type": "PoleFigure",
+    "description": "Steel pole figures turned by 90 degree",
+    "files": [
+      "PoleFigure/steel/AcAR110p.rw1",
+      "PoleFigure/steel/AcAR200p.rw1",
+      "PoleFigure/steel/AcAR211p.rw1"
+    ]
+  },
+  {
+    "name": "ptx",
+    "type": "PoleFigure",
+    "description": "Three orthorhombic pole figures of a Siemens diffractometer",
+    "files": [
+      "PoleFigure/ptx/gt9104.ptx",
+      "PoleFigure/ptx/gt9110.ptx",
+      "PoleFigure/ptx/gt9202.ptx"
+    ]
+  },
+  {
+    "name": "zncuti",
+    "type": "PoleFigure",
+    "description": "ZnCuTi sheet pole figures corrected by a texture-free reference",
+    "files": [
+      "PoleFigure/ZnCuTi/ZnCuTi_Wal_50_5x5_PF_002_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_Wal_50_5x5_PF_100_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_Wal_50_5x5_PF_101_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_Wal_50_5x5_PF_102_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_defocusing_PF_002_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_defocusing_PF_100_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_defocusing_PF_101_R.UXD",
+      "PoleFigure/ZnCuTi/ZnCuTi_defocusing_PF_102_R.UXD"
+    ]
+  },
+  {
+    "name": "aachenexp",
+    "type": "PoleFigure",
+    "description": "Aachen experimental pole figures",
+    "files": [
+      "PoleFigure/aachen_exp.EXP"
+    ]
+  },
+  {
+    "name": "dubnaODF",
+    "type": "SO3Fun",
+    "description": "The ODF reconstructed from the Dubna quartz pole figures",
+    "files": [
+      "PoleFigure/dubna/Q(02-21)_amp.cnv",
+      "PoleFigure/dubna/Q(10-10)_amp.cnv",
+      "PoleFigure/dubna/Q(10-11)(01-11)_amp.cnv",
+      "PoleFigure/dubna/Q(10-12)_amp.cnv",
+      "PoleFigure/dubna/Q(11-20)_amp.cnv",
+      "PoleFigure/dubna/Q(11-21)_amp.cnv",
+      "PoleFigure/dubna/Q(11-22)_amp.cnv"
+    ]
+  },
+  {
+    "name": "eclogite",
+    "type": "EBSD",
+    "description": "Sparse eclogite map whose positions collide on a lattice, kept as a list",
+    "files": [
+      "EBSD/eclogite.ctf"
+    ]
+  },
+  {
+    "name": "vectors",
+    "type": "vector3d",
+    "description": "A thousand directions as polar and azimuth angles",
+    "files": [
+      "vector3d/vectors.txt"
+    ]
+  },
+  {
+    "name": "dubnaValues",
+    "type": "orientation",
+    "description": "Values of the Dubna ODF at 19848 orientations of a 5 degree grid",
+    "files": [
+      "orientation/dubna.csv"
+    ]
+  },
+  {
+    "name": "smiley",
+    "type": "vector3d",
+    "description": "777 directions with the values of the smiley function",
+    "files": [
+      "vector3d/smiley.csv"
+    ]
+  },
+  {
+    "name": "tongue",
+    "type": "orientation",
+    "description": "382 quartz orientations of the Tongue quartzite as Bunge Euler angles",
+    "files": [
+      "orientation/Tongue_Quartzite_Bunge_Euler"
+    ]
+  },
+  {
+    "name": "vpsc",
+    "type": "VPSC",
+    "description": "The texture and slip activity history of a VPSC olivine run",
+    "files": [
+      "VPSC/TEX_PH1.OUT",
+      "VPSC/ACT_PH1.OUT"
+    ]
+  },
+  {
+    "name": "trueEbsdWCCoSmall",
+    "type": "EBSD",
+    "description": "WC-Co map with four forescatter images of the same area, for TrueEBSD",
+    "files": [
+      "EBSD/trueEbsdWCCoSmall.h5"
+    ]
+  },
+  {
+    "name": "xnovo",
+    "type": "EBSD3",
+    "description": "A simulated multiphase xnovo volume, a cylinder of nine phases",
+    "files": [
+      "EBSD3/SimulatedMultiPhase.h5"
+    ]
+  },
+  {
+    "name": "SmallIN100",
+    "type": "EBSD3",
+    "description": "The IN100 nickel superalloy volume of DREAM.3D with its grain mesh",
+    "files": [
+      "EBSD/SmallIN100_MeshStats.dream3d"
+    ]
+  },
+  {
+    "name": "odf",
+    "type": "SO3Fun",
+    "description": "An ODF tabulated on a Bunge Euler grid, read as values",
+    "files": [
+      "ODF/odf.txt"
+    ]
+  },
+  {
+    "name": "quartzPiezo",
+    "type": "tensor",
+    "description": "The piezoelectric modulus of right-handed quartz (Frondel 1962)",
+    "files": [
+      "tensor/Single_RH_quartz_poly.P"
+    ]
+  },
+  {
+    "name": "olivine1997",
+    "type": "tensor",
+    "description": "The stiffness tensor of San Carlos olivine at room pressure",
+    "files": [
+      "tensor/Olivine1997PC.GPa"
+    ]
+  },
+  {
+    "name": "quartzPattern",
+    "type": "S2Fun",
+    "description": "A spherical Kikuchi master pattern of quartz",
+    "files": [
+      "quartzPattern.mat"
+    ]
+  },
+  {
+    "name": "3d",
+    "type": "EBSD",
+    "description": "Serial sections of a 3d map, one .ang file per slice",
+    "files": [
+      "EBSD/3dData/S00.ANG",
+      "EBSD/3dData/S01.ANG",
+      "EBSD/3dData/S02.ANG",
+      "EBSD/3dData/S03.ANG",
+      "EBSD/3dData/S04.ANG",
+      "EBSD/3dData/S05.ANG",
+      "EBSD/3dData/S06.ANG",
+      "EBSD/3dData/S07.ANG",
+      "EBSD/3dData/S08.ANG",
+      "EBSD/3dData/S09.ANG",
+      "EBSD/3dData/S10.ANG",
+      "EBSD/3dData/S11.ANG",
+      "EBSD/3dData/S12.ANG",
+      "EBSD/3dData/S13.ANG",
+      "EBSD/3dData/S14.ANG",
+      "EBSD/3dData/S15.ANG",
+      "EBSD/3dData/S16.ANG",
+      "EBSD/3dData/S17.ANG",
+      "EBSD/3dData/S18.ANG",
+      "EBSD/3dData/S19.ANG",
+      "EBSD/3dData/S20.ANG",
+      "EBSD/3dData/S21.ANG",
+      "EBSD/3dData/S22.ANG",
+      "EBSD/3dData/S23.ANG",
+      "EBSD/3dData/S24.ANG",
+      "EBSD/3dData/S25.ANG",
+      "EBSD/3dData/S26.ANG",
+      "EBSD/3dData/S27.ANG",
+      "EBSD/3dData/S28.ANG",
+      "EBSD/3dData/S29.ANG",
+      "EBSD/3dData/S30.ANG",
+      "EBSD/3dData/S31.ANG",
+      "EBSD/3dData/S32.ANG",
+      "EBSD/3dData/S33.ANG",
+      "EBSD/3dData/S34.ANG",
+      "EBSD/3dData/S35.ANG",
+      "EBSD/3dData/S36.ANG",
+      "EBSD/3dData/S37.ANG",
+      "EBSD/3dData/S38.ANG",
+      "EBSD/3dData/S39.ANG",
+      "EBSD/3dData/S40.ANG",
+      "EBSD/3dData/S41.ANG",
+      "EBSD/3dData/S42.ANG",
+      "EBSD/3dData/S43.ANG",
+      "EBSD/3dData/S44.ANG",
+      "EBSD/3dData/S45.ANG",
+      "EBSD/3dData/S46.ANG",
+      "EBSD/3dData/S47.ANG",
+      "EBSD/3dData/S48.ANG",
+      "EBSD/3dData/S49.ANG",
+      "EBSD/3dData/S50.ANG",
+      "EBSD/3dData/S51.ANG",
+      "EBSD/3dData/S52.ANG",
+      "EBSD/3dData/S53.ANG",
+      "EBSD/3dData/S54.ANG",
+      "EBSD/3dData/S55.ANG",
+      "EBSD/3dData/S56.ANG",
+      "EBSD/3dData/S57.ANG",
+      "EBSD/3dData/S58.ANG"
+    ]
+  },
+  {
+    "name": "trueEbsdWCCo",
+    "type": "EBSD",
+    "description": "The full WC-Co map with forescatter images, for TrueEBSD",
+    "files": [
+      "EBSD/trueEbsdWCCo.mat"
+    ]
+  },
+  {
+    "name": "copper29",
+    "type": "EBSD",
+    "description": "Oxford h5oina copper map",
+    "files": [
+      "EBSD/copper29.h5oina"
+    ]
+  },
+  {
+    "name": "my100grains",
+    "type": "grain3d",
+    "description": "A Neper tessellation of 100 grains with their orientations",
+    "files": [
+      "Neper/my100grains.tess",
+      "Neper/my100grains.ori"
+    ]
+  },
+  {
+    "name": "NeperGrain3d",
+    "type": "grain3d",
+    "description": "1000 grains simulated by Neper from the Dubna ODF",
+    "files": []
+  }
+]
