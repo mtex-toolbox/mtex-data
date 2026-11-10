@@ -56,6 +56,14 @@
     ]
   },
   {
+    "name": "peridotite",
+    "type": "EBSD",
+    "description": "Peridotite thin section with a crack, pores and pockets, courtesy of David Mainprice",
+    "files": [
+      "EBSD/peridotite.ctf"
+    ]
+  },
+  {
     "name": "olivine",
     "type": "EBSD",
     "description": "Olivine optical map in the prepared reference frame",
